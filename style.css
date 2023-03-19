@@ -1,0 +1,83 @@
+nav img{
+    width: 120px;
+    height: 120px;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.feedback{
+    text-align: center;
+}
+
+.feedback p{
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+}
+
+header img{
+    float: left;
+}
+
+header p{
+    float: left;
+}
+
+.control{
+    float: left;
+}
+
+.control2{
+    float: right;
+}
+
+.control3{
+    float: left;
+}
+
+.help{
+    text-align: center;
+}
+
+.all{
+    display: flex;
+}
+
+.all2{
+    display: flex;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+nav img{
+    opacity: 0.5;
+}
+
+nav img:hover{
+    opacity: 1;
+}
+
+.basement{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text1{
+    float: right;
+}
+
+.text2{
+    float: left;
+}
+
+.text3{
+    float: right;
+}
+
+.features{
+    display: flex;
+}
