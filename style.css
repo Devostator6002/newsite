@@ -18,6 +18,7 @@ body{
 
 header img{
     float: right;
+    margin-left: 200px;
 }
 
 header p{
@@ -80,4 +81,9 @@ nav img:hover{
 
 .features{
     display: flex;
+}
+
+.team{
+    position: absolute;
+    right: 400px;
 }
