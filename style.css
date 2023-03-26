@@ -1,14 +1,17 @@
 nav img{
     width: 120px;
     height: 120px;
+    background-color: white;
 }
 
 body{
     font-family: sans-serif;
+    background-color: grey;
 }
 
 .feedback{
     text-align: center;
+    background-color: white;
 }
 
 .feedback p{
@@ -18,7 +21,7 @@ body{
 
 header img{
     float: right;
-    margin-left: 200px;
+    margin-left: 220px;
 }
 
 header p{
@@ -27,26 +30,32 @@ header p{
 
 .control{
     float: left;
+    background-color: white;
 }
 
 .control2{
     float: right;
+    background-color: white;
 }
 
 .control3{
     float: left;
+    background-color: white;
 }
 
 .help{
     text-align: center;
+    background-color: white;
 }
 
 .all{
     display: flex;
+    background-color: white;
 }
 
 .all2{
     display: flex;
+    background-color: white;
 }
 
 footer{
@@ -86,4 +95,5 @@ nav img:hover{
 .team{
     position: absolute;
     right: 400px;
+    background-color: white;
 }
